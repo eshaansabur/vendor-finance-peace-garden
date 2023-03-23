@@ -13,7 +13,7 @@
       "registered": "2019-11-05T06:40:15 -06:00",
       "latitude": 11.171091,
       "longitude": 57.476152,
-      "status": "approved"
+      "status": 0
     },
     {
       "_id": "63f8e5ba6e7db1dd2ad7b65d",
@@ -29,7 +29,7 @@
       "registered": "2020-05-14T06:19:06 -06:00",
       "latitude": -1.531039,
       "longitude": 43.455447,
-      "status": "approved"
+      "status": 1
     },
     {
       "_id": "63f8e5ba0fc5f7379bb29f7b",
@@ -45,7 +45,7 @@
       "registered": "2017-09-04T08:39:00 -06:00",
       "latitude": 31.652716,
       "longitude": 48.494485,
-      "status": "approved"
+      "status": 1
     },
     {
       "_id": "63f8e5ba92988361470803d0",
@@ -61,7 +61,7 @@
       "registered": "2014-04-19T11:13:04 -06:00",
       "latitude": -28.592975,
       "longitude": 35.5796,
-      "status": "approved"
+      "status": 1
     },
     {
       "_id": "63f8e5bafdaf9635cc0ad59d",
@@ -93,6 +93,6 @@
       "registered": "2021-08-03T09:51:19 -06:00",
       "latitude": -63.821631,
       "longitude": -80.19051,
-      "status": "approved"
+      "status": 0
     }
   ]

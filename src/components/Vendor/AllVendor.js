@@ -16,7 +16,7 @@ const AllVendor = (props) => {
             <td>{email}</td>
             <td>{phone}</td>
             <td>{address}</td>
-            <td>{status}</td>
+            <td>{status? <span className='badge rounded-pill bg-success px-4 py-2'>active</span> : <span className='badge rounded-pill bg-danger px-4 py-2'>inactive</span>}</td>
             <td><button onClick={()=>seeVendorDetails(_id)} className='btn report-button'><small>Update</small></button></td>
             <td><button onClick={()=>handleDeleteVendor(props.vendor)} className='btn btn-danger'><small>Delete</small></button></td>
         </tr>
